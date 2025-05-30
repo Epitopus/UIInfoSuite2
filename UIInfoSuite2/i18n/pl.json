@@ -94,7 +94,7 @@
   "HideAnimalPetOnMaxFriendship": "Ukryj na maks. poziomie miłości",
   "ShowCropAndBarrelTooltip": "Pokaż czas uprawy i produkcji",
   "ShowItemEffectRanges": "Pokaż zasięg strachów i zraszaczy",
-  "ButtonControlShow": "Naciśnij Lewy Ctrl, aby pokazać zasięg bieżącego przedmiotu,^a dodatkowo przytrzymując Lewy Alt, aby pokazać zasięg wszystkich przedmiotów",
+  "ButtonControlShow": "Naciśnij LewyCtrl, aby pokazać zasięg bieżącego przedmiotu\nLewyCtrl+LewyAlt, aby pokazać zasięg wszystkich przedmiotów",
   "ShowBombRange": "Pokazuj zasięg niszczenia bomby",
   "ShowExtraItemInformation": "Pokaż info o przedmiocie po najechaniu",
   "ShowHarvestPricesInShop": "Pokaż ceny plonów w sklepie",
